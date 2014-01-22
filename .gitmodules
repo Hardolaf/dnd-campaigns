@@ -1,0 +1,3 @@
+[submodule "dnd-latex"]
+	path = dnd-latex
+	url = git@github.com:Hardolaf/dnd-latex.git
